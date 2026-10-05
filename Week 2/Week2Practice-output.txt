@@ -1,0 +1,19 @@
+1. Vowel & Consonant Counter
+Vowels: 5 | Consonants: 10
+
+2. CSV Student Record Parser
+Name: Ananya Verma | Roll No: RA2211003010123 | Dept: CSE
+Invalid Record
+
+3. File Extension Validator
+Assignment1.PDF -> Accepted
+notes.txt -> Rejected - invalid file type
+
+4. Masked Phone Number Formatter
+XXXXXX-3210
+Invalid phone number
+
+5. Bank Transaction Reference Generator & Validator
+[HDF] DATE: 03/02/26 | SEQ: 00042
+Invalid: bank code must be 3 letters
+Additional edge-case checks passed.
