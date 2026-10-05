@@ -1,0 +1,18 @@
+1. ATM PIN Length Validator
+482 -> Invalid PIN - must be exactly 4 digits.
+4820 -> PIN length OK.
+
+2. Word Reversal Encoder
+olleh bulc
+
+3. Product Inventory CSV Parser
+Product: Wireless Mouse | SKU: WM-2201 | Qty: 150
+Invalid Record
+
+4. Library ISBN Normalizer & Validator
+[PEN] YEAR: 2026 | CATALOG: 004251
+Invalid: publisher code must be 3 letters
+
+5. Stop-Word-Filtered Word Frequency Report
+great: 2 | clear: 1 | mentor: 1 | session: 1
+Additional edge-case checks passed.
