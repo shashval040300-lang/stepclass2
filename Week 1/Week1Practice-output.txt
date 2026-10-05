@@ -1,0 +1,26 @@
+1. Rock-Paper-Scissors Game (5-round seeded demo)
+Round | Player Move | Computer Move | Result
+    1 | Rock        | Scissors      | Player Wins
+    2 | Paper       | Rock          | Player Wins
+    3 | Scissors    | Rock          | Computer Wins
+    4 | Rock        | Scissors      | Player Wins
+    5 | Paper       | Rock          | Player Wins
+Wins: 4 | Losses: 1 | Draws: 0 | Win % = 80.0%
+
+2. Palindrome Checker (3 Approaches)
+madam -> Iterative: Palindrome | Recursive: Palindrome | Array Reversal: Palindrome
+hello -> Iterative: Not Palindrome | Recursive: Not Palindrome | Array Reversal: Not Palindrome
+
+3. BMI Calculator for a Team
+Person   Height (m)   Weight (kg)  BMI        Status
+1        1.75         70.00        22.86      Normal
+2        1.60         90.00        35.16      Obese
+
+4. First Non-Repeating Character
+"swiss" -> First Non-Repeating Character: 'w'
+"aabbcc" -> No Non-Repeating Character Found
+
+5. Reverse Customer Name
+Original Name: Sunil
+Reversed Name: linuS
+Additional edge-case checks passed.
