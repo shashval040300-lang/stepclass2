@@ -1,0 +1,5 @@
+Curved scores: [80, 95, 70]
+Duplicate Found: ByteForce
+Top three: [90, 90, 82]
+Row 0: Quiet Zone | Row 1: Buzzing Zone | Row 2: Quiet Zone
+1. Aisha (102.0) | 2. Rohit (100.5) | 3. Karan (85.0)
